@@ -2,7 +2,7 @@
 
 > A blog starter theme for [Gridsome](https://gridsome.org), inspired by the [Attila](https://github.com/zutrinken/attila) Ghost theme and styled with [Tailwind CSS](https://tailwindcss.com).
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/cossssmin/gridsome-starter-bleda)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/cossssmin/gridsome-starter-bleda) [![Greenkeeper badge](https://badges.greenkeeper.io/kosirm/gridsome-starter-bleda.svg)](https://greenkeeper.io/)
 
 ## Demo
 
